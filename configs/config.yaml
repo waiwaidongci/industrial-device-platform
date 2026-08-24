@@ -1,0 +1,3 @@
+http_addr: ":8080"
+heartbeat_timeout: "2m"
+rate_limit: 100
